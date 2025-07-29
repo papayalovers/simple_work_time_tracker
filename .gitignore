@@ -1,0 +1,4 @@
+mediapipe_env/
+*.dat
+*.caffemodel
+models/
