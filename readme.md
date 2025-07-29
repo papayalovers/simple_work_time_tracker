@@ -25,9 +25,8 @@ Run the App:
 ├── main.py
 ├── requirements.txt
 ├── mediapipe_env/  (created after setup)
-└── README.md```
-
-
+└── README.md
+```
 
 ## Notes
 - Press `q` to quit the app.
