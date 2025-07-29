@@ -15,7 +15,7 @@ Run the App:
 `python main.py`
 
 ## Project Structure
-work_time_tracker/
+```work_time_tracker/
 │
 ├── controller/
 │   ├── config.py
@@ -25,7 +25,7 @@ work_time_tracker/
 ├── main.py
 ├── requirements.txt
 ├── mediapipe_env/  (created after setup)
-└── README.md
+└── README.md```
 
 
 
